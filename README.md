@@ -1,2 +1,1 @@
-# wallaby-coffeescript-sample
-Testing CoffeeScript app with wallaby.js
+# CoffeeScript support in wallaby.js sample
