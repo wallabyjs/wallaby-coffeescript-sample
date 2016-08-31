@@ -23,9 +23,5 @@ module.exports = function (w) {
     // If you'd like to not do it and for example use your own renaming strategy,
     // you may pass 'noRename' option to CS compiler
     //  '**/*.coffee': w.compilers.coffeeScript({ noRename: true })
-    // and may use preprocessors to rename files the way you like:
-    //preprocessors: {
-    //  '**/*.coffee': file => file.rename(file.path + '.js').content
-    //}
   };
 };
