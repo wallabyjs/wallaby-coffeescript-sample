@@ -4,5 +4,5 @@ expect = chai.expect
 
 describe 'Student', ->
   it 'should report grade', ->
-    student = new Student score: 75;
+    student = new Student score: 75
     expect(student.grade()).to.equal('C')
